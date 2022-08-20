@@ -1,1 +1,4 @@
 Showing branch protection rules
+
+
+Adding passing status checks branch protection rule 
